@@ -1,19 +1,25 @@
 
-# Travel Website
+# To-Do List Website
 
-This is a project for a travel website that includes features like destination guides, itineraries, booking options, user reviews, and a contact form.
+This is a project for a To-Do List website that includes features like user registration, task management, and task organization.
 
 ## Features
 
-- Destination Guides
-- Itineraries
-- Booking Options
-- User Reviews
-- Contact Form
+- User Registration
+- Task Creation
+- Task Editing
+- Task Deletion
+- Task Completion
+- Task Organization with Drag-and-Drop
+- Notifications or Reminders
+- Data Persistence with Database
+- Mobile Optimization
+- Fast Loading Times
+- Clean and Maintainable Code
+- Cross-Browser Compatibility
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Lipi-Sah/Travel_website.git
-
+   git clone https://github.com/Lipi-Sah/To-Do-List-Website.git
