@@ -1,4 +1,3 @@
-To-Do List Web Application
 This project is a To-Do List web application that allows users to register, log in, manage tasks, and track task completion. It includes functionalities for adding, editing, deleting, and completing tasks. The application features a responsive design with modern styling.
 
 Features
